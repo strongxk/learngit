@@ -6,4 +6,6 @@
 
 \f0\fs24 \cf0 \'b2\'e2\'ca\'d4
 \f1 git
-\f0 \'b0\'e6\'b1\'be\'bf\'d8\'d6\'c6\'b9\'a4\'be\'df}
+\f0 \'b0\'e6\'b1\'be\'bf\'d8\'d6\'c6\'b9\'a4\'be\'df\
+\'d0\'de\'b8\'c4\'ce\'c4\'bc\'fe\'c4\'da\'c8\'dd\
+}
